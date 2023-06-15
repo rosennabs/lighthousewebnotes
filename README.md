@@ -7,4 +7,5 @@ This repository contains all of the notes taken by [Rose](https://github.com/ros
 ### Table of Contents
 
 - [Week 1](/Week_1)
-  - [Day 1](/Week_1/Day_1/)
+  - [Day 1](/Week_1/Day_1/) : contains notes on destructuring, using the map method, and the arrow function.
+  * [Day 2](/Week_1/Day_2/)
